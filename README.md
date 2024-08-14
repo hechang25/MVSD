@@ -166,3 +166,14 @@ Audio style transfer under visual guidance has been made significant progress wi
 	<td><audio src="./samples/ss_dereverb/1221-135766-0003_0.0082.wav" controls style="width: 150px;"></audio> </td>
     </tr>
 </table>
+
+# Citation
+Please consider citing our paper if it helps your research.
+```
+@inproceedings{ma2024mutual,
+  title={Mutual Learning for Acoustic Matching and Dereverberation via Visual Scene-driven Diffusion},
+  author={Ma, Jian and Wang, Wenguan and Yang, Yi and Zheng, Feng},
+  booktitle={ECCV},
+  year={2024}
+}
+```
